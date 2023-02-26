@@ -27,7 +27,7 @@ theoretical results.
 ### Enviroment
 
 ```bash
-conda env create -f enviroment.yml
+conda env create -f environment.yml
 ```
 
 ### Meta-Training
